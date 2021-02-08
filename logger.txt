@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+Login: wdwfwf password: ewfwefe
+Login: admin password: 12345
+Registration: (Login: admin password: qw email: qewr)
+Registration: (Login: admin password: 123 email: 2ger)
